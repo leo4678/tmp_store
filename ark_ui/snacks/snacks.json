@@ -1,0 +1,60 @@
+{
+  "title": "零食列表",
+  "items": [
+    {
+      "id": 1,
+      "name": "经典薯片大礼包",
+      "brand": "脆脆香",
+      "description": "10种口味组合装，精选优质土豆切片，非油炸烘烤工艺，酥脆爽口不油腻",
+      "price": 59,
+      "image": "images/snack_01_chips.jpg",
+      "category": "膨化食品",
+      "rating": 4.7,
+      "weight": "800g"
+    },
+    {
+      "id": 2,
+      "name": "手工曲奇饼干",
+      "brand": "Sweet Home",
+      "description": "纯手工制作，进口黄油，6种口味混装，入口即化，独立小包装方便携带",
+      "price": 45,
+      "image": "images/snack_02_cookies.jpg",
+      "category": "饼干",
+      "rating": 4.8,
+      "weight": "500g"
+    },
+    {
+      "id": 3,
+      "name": "甜甜圈礼盒",
+      "brand": "Donut House",
+      "description": "现做现发，8个装4种口味，松软绵密，巧克力糖霜装饰，冷藏更佳",
+      "price": 68,
+      "image": "images/snack_03_donuts.jpg",
+      "category": "糕点",
+      "rating": 4.6,
+      "weight": "400g"
+    },
+    {
+      "id": 4,
+      "name": "混合坚果仁",
+      "brand": "Nut King",
+      "description": "6种坚果科学配比，原味烘焙无添加，富含蛋白质与不饱和脂肪酸，健康零食首选",
+      "price": 79,
+      "image": "images/snack_04_nuts.jpg",
+      "category": "坚果",
+      "rating": 4.9,
+      "weight": "600g"
+    },
+    {
+      "id": 5,
+      "name": "果汁软糖",
+      "brand": "Fruit Joy",
+      "description": "真实果汁添加，Q弹软糯不粘牙，6种水果口味，无人工色素，儿童放心食用",
+      "price": 29,
+      "image": "images/snack_05_candy.jpg",
+      "category": "糖果",
+      "rating": 4.5,
+      "weight": "300g"
+    }
+  ]
+}

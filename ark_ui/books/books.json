@@ -1,0 +1,60 @@
+{
+  "title": "书籍列表",
+  "items": [
+    {
+      "id": 1,
+      "name": "科幻小说精选集",
+      "author": "刘慈欣 等著",
+      "description": "收录当代中国科幻代表作，探索宇宙奥秘与人性深度，精装典藏版，附赠书签",
+      "price": 89,
+      "image": "images/book_01_fiction.jpg",
+      "category": "科幻小说",
+      "rating": 4.9,
+      "pages": 480
+    },
+    {
+      "id": 2,
+      "name": "编程入门经典",
+      "author": "李明 著",
+      "description": "零基础学编程首选，Python语言入门，配套视频教程，实战项目案例丰富",
+      "price": 79,
+      "image": "images/book_02_stack.jpg",
+      "category": "计算机",
+      "rating": 4.7,
+      "pages": 360
+    },
+    {
+      "id": 3,
+      "name": "儿童绘本故事集",
+      "author": "张小花 绘著",
+      "description": "精选20个温馨睡前故事，精美彩绘插图，大字注音版，培养孩子阅读习惯",
+      "price": 59,
+      "image": "images/book_03_reading.jpg",
+      "category": "儿童读物",
+      "rating": 4.8,
+      "pages": 120
+    },
+    {
+      "id": 4,
+      "name": "世界历史通识",
+      "author": "王历史 著",
+      "description": "纵览人类文明发展脉络，图文并茂，深入浅出，历史爱好者必读经典",
+      "price": 129,
+      "image": "images/book_04_library.jpg",
+      "category": "历史",
+      "rating": 4.6,
+      "pages": 680
+    },
+    {
+      "id": 5,
+      "name": "高效工作笔记法",
+      "author": "陈效率 著",
+      "description": "提升工作效率的笔记技巧，时间管理与知识整理方法，职场进阶必备",
+      "price": 49,
+      "image": "images/book_05_notebook.jpg",
+      "category": "自我提升",
+      "rating": 4.5,
+      "pages": 200
+    }
+  ]
+}

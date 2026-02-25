@@ -1,0 +1,60 @@
+{
+  "title": "玩具列表",
+  "items": [
+    {
+      "id": 1,
+      "name": "毛绒泰迪熊",
+      "brand": "Soft Hugs",
+      "description": "超柔软毛绒材质，安全环保填充，适合0岁以上婴幼儿，可水洗",
+      "price": 129,
+      "image": "images/toy_01_bear.jpg",
+      "category": "毛绒玩具",
+      "rating": 4.9,
+      "ageRange": "0-6岁"
+    },
+    {
+      "id": 2,
+      "name": "积木拼搭套装",
+      "brand": "Builder Pro",
+      "description": "200片益智积木，培养创造力与动手能力，环保ABS材质，圆角设计安全无毛刺",
+      "price": 199,
+      "image": "images/toy_02_blocks.jpg",
+      "category": "益智玩具",
+      "rating": 4.7,
+      "ageRange": "3-10岁"
+    },
+    {
+      "id": 3,
+      "name": "合金赛车套装",
+      "brand": "Speed King",
+      "description": "6辆合金回力赛车，1:64比例，精细涂装，惯性滑行，合金车身坚固耐用",
+      "price": 89,
+      "image": "images/toy_03_cars.jpg",
+      "category": "模型玩具",
+      "rating": 4.6,
+      "ageRange": "3岁以上"
+    },
+    {
+      "id": 4,
+      "name": "时尚换装娃娃",
+      "brand": "Fashion Doll",
+      "description": "30cm关节可动娃娃，含5套服装配饰，培养审美搭配能力，精美礼盒包装",
+      "price": 259,
+      "image": "images/toy_04_doll.jpg",
+      "category": "玩偶",
+      "rating": 4.8,
+      "ageRange": "4-12岁"
+    },
+    {
+      "id": 5,
+      "name": "木质拼图",
+      "brand": "Wood Play",
+      "description": "1000片木质拼图，精美风景图案，厚度2mm易拼装，环保水性漆安全无毒",
+      "price": 79,
+      "image": "images/toy_05_puzzle.jpg",
+      "category": "益智玩具",
+      "rating": 4.5,
+      "ageRange": "6岁以上"
+    }
+  ]
+}
