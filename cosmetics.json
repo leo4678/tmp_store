@@ -1,0 +1,55 @@
+{
+  "title": "化妆品列表",
+  "items": [
+    {
+      "id": 1,
+      "name": "粉底液",
+      "brand": "Perfect Cover",
+      "description": "轻薄遮瑕粉底液，持久保湿，自然服帖，适合干性及混合性肌肤，SPF30防晒保护",
+      "price": 299,
+      "image": "images/cosmetic_01_foundation.jpg",
+      "category": "底妆",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "name": "丝绒唇膏",
+      "brand": "Luxe Color",
+      "description": "哑光丝绒质地，显色饱满，持久不脱色，含有维生素E滋润成分，12小时持妆",
+      "price": 199,
+      "image": "images/cosmetic_02_lipstick.jpg",
+      "category": "唇妆",
+      "rating": 4.6
+    },
+    {
+      "id": 3,
+      "name": "优雅香水",
+      "brand": "Elegant Essence",
+      "description": "花果香调香水，前调柑橘，中调玫瑰茉莉，尾调麝香檀木，留香持久优雅",
+      "price": 599,
+      "image": "images/cosmetic_03_perfume.jpg",
+      "category": "香氛",
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "name": "玻尿酸精华液",
+      "brand": "Hydra Plus",
+      "description": "高浓度玻尿酸精华，深层补水锁水，改善干燥细纹，敏感肌适用，无添加配方",
+      "price": 399,
+      "image": "images/cosmetic_04_skincare.jpg",
+      "category": "护肤",
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "name": "彩妆套装",
+      "brand": "Beauty Box",
+      "description": "12色眼影盘+腮红+高光组合，粉质细腻易上色，配色百搭日常通勤皆宜",
+      "price": 459,
+      "image": "images/cosmetic_05_makeup.jpg",
+      "category": "彩妆",
+      "rating": 4.5
+    }
+  ]
+}
